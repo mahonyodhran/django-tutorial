@@ -1,0 +1,1 @@
+Django tutorial as per the docs - refreshing Django project structure knowledge
